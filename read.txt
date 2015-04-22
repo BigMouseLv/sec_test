@@ -1,3 +1,7 @@
 add new test
+<<<<<<< HEAD
 test bug stash
 new test
+=======
+will be success
+>>>>>>> dev
